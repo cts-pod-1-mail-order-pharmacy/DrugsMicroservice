@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class DrugsMicroserviceApplication {
+public class DrugsMicroservice {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DrugsMicroserviceApplication.class, args);
+		SpringApplication.run(DrugsMicroservice.class, args);
 	}
 
 }
